@@ -1,0 +1,6 @@
+names:
+ 0: PONDS POWDER
+path: mini_project
+test: ''
+train: images/train
+val: ''
